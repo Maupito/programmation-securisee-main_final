@@ -1,0 +1,5 @@
+-I replaced the name of the CSS file 'XXXX.CSS' by 'main.CSS' in the file base.html at line 8
+
+-I replaced the name of the html file 'XXXX.html' by 'time.html' in the app.py file in use of templates at line 32
+
+-I replaced the None variables by their respective variables, which are: date and hour in line 32 of the app.py file
